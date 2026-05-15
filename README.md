@@ -153,3 +153,15 @@ This project demonstrates the complete Machine Learning workflow including:
 * Business understanding
 
 This project can help businesses reduce customer loss and improve retention strategies.
+## Future Enhancements
+
+- Integrate real Machine Learning model using joblib
+- Add more customer input features
+- Deploy advanced Streamlit dashboard
+- Add SHAP Explainability
+- Add real-time prediction system
+- Integrate Power BI dashboard
+- Improve UI/UX design
+- Add authentication system
+- Use Deep Learning models
+- Connect with cloud database
